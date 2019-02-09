@@ -1,0 +1,30 @@
+{
+  "name": "scroller",
+  "version": "1.0.0",
+  "description": "Scroller game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jolkku/Scroller_Game.git"
+  },
+  "keywords": [
+    "Game",
+    "Scroller"
+  ],
+  "author": "Joel Rusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jolkku/Scroller_Game/issues"
+  },
+  "homepage": "https://github.com/Jolkku/Scroller_Game#readme",
+  "engines": {
+    "node": "10.x"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
